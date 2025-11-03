@@ -1,7 +1,12 @@
 ---
 layout: page
 ---
-# Wentao Zhang (张文涛)
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Ma+Shan+Zheng&family=Yuji+Mai&display=swap');
+.kai-name { font-family: "Ma Shan Zheng", 'KaiTi', 'STKaiti', 'KaiTi TC', 'DFKai-SB', serif; }
+</style>
+# Wentao Zhang (<span class="kai-name">张文涛</span>)
+<!--張-->
 
 <!-- Hide the fast navigation right part of page (just hide and leave these part blank but unused) -->
 <!-- <script>
@@ -134,7 +139,7 @@ Welcome cooperation and discussion.
 ---
 <div class="internship-row">
    <div class="internship-img" style="--logo-scale:0.9;">
-        <img src="/images/logos/UTokyoLogoB.jpeg" alt="University of Tokyo">
+    <img src="/images/logos/UTokyoLogoB.jpg" alt="University of Tokyo">
     </div>
     <div class="internship-content">
         <p        ></p>
