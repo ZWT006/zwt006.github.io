@@ -7,10 +7,10 @@ order: 4
 <!-- Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
 {: .prompt-tip } -->
 
-> If you have any questions or suggestions, please feel free to contact <kbd>zwt190315@163.com</kbd> or <kbd>wentaozhang@hust.edu.cn</kbd>. Welcome to exchange!
+> If you have any questions or suggestions, please feel free to contact <kbd>zwt190315@163.com</kbd> or <kbd>wentao-zhang@dragon.t.u-tokyo.ac.jp</kbd>. Welcome to exchange!
 {: .prompt-tip }
 
-
+<!-- wentaozhang@hust.edu.cn -->
 <!-- <div style="text-align: center">
     <a href="https://m.maploco.com/details/71f666nh"><img style="border:0px;" src="https://www.maploco.com/vmap/10366253.png" alt="Locations of Site Visitors" title="Locations of Site Visitors"/></a>  
 </div> -->
