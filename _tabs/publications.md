@@ -10,7 +10,7 @@ order: 1
 
 ## Journal Paper
 ---
-• **W. Zhang**, S. Xu, G. Zuo, B. Li, J. Wang, and L. Zhu, Hybrid Dynamics Modeling and Trajectory Planning for a Cable-Trailer System with a Quadruped Robot. [arxiv](https://arxiv.org/abs/2404.12220).  
+• **W. Zhang**, S. Xu, G. Zuo, B. Li, J. Wang, and L. Zhu, [Hybrid Dynamics Modeling and Trajectory Planning for a Cable-Trailer System with a Quadruped Robot](https://ieeexplore.ieee.org/document/11244209), IEEE Robotics and Automation Letters, vol. 11, no. 1, pp. 354–361, Jan. 2026. [arxiv](https://arxiv.org/abs/2404.12220)  
 • B. Li, **W. Zhang**, X. Huang, L. Zhu, and H. Ding, [A Whole-Body Disturbance Rejection Control Framework for Dynamic Motions in Legged Robots](https://ieeexplore.ieee.org/document/11079307), IEEE Robotics and Automation Letters, vol. 10, no. 10, pp. 9774–9781, Oct. 2025.  
 • K. Liu, L. Dong, X. Tan, **W. Zhang**, and L. Zhu, [Optimization-Based Flocking Control and MPC-Based Gait Synchronization Control for Multiple Quadruped Robots](https://ieeexplore.ieee.org/document/10381783), IEEE Robotics and Automation Letters, vol. 9, no. 2, pp. 1929–1936, Feb. 2024.  
 
