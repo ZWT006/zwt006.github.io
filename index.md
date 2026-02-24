@@ -84,7 +84,7 @@ Welcome cooperation and discussion.
 <div class="news-box" tabindex="0" aria-label="News">
     <h3><b>News</b></h3>
     <ul>
-        <li><em>Oct. 2025</em>: On paper (1st) has been accepted by RA-L，a nice end of my master's journey </li>
+        <li><em>Oct. 2025</em>: On paper (1st author) has been accepted by RA-L，a nice end of my master's journey </li>
         <li><em>Oct. 2025</em>: Start my PhD journal in <a href="http://www.dragon.t.u-tokyo.ac.jp">DRAGON Lab</a>. Happy to meet nice people in here</li>
         <li><em>June. 2025</em>: Start my internship on Shanghai AI Lab. Very happy to join in the excellent gropu (Embodied AI Center) </li>
         <li><em>Jun. 2024</em>: Two paper (1st, 2nd author) have been accepted by IROS 2024.</li>
