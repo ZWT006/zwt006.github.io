@@ -378,17 +378,43 @@
       border-bottom: 2px solid var(--border);
       margin-bottom: 1rem;
     }
+    .bibtex-wrapper {
+      position: relative;
+    }
     .bibtex-block {
       background: var(--code-bg);
       color: var(--text);
       border: 1px solid var(--border);
       border-left: 4px solid var(--accent);
       border-radius: 6px;
-      padding: 1rem 1.2rem;
+      padding: 1rem 3rem 1rem 1.2rem;
       font-family: "SFMono-Regular", Consolas, monospace;
       font-size: 0.85rem;
       overflow-x: auto;
       white-space: pre;
+    }
+    .bibtex-copy-btn {
+      position: absolute;
+      top: 0.5rem;
+      right: 0.5rem;
+      background: transparent;
+      border: 1px solid var(--border);
+      border-radius: 5px;
+      padding: 0.2rem 0.5rem;
+      font-size: 0.78rem;
+      color: var(--muted);
+      cursor: pointer;
+      transition: color 0.15s, border-color 0.15s, background 0.15s;
+      line-height: 1.4;
+    }
+    .bibtex-copy-btn:hover {
+      color: var(--accent);
+      border-color: var(--accent);
+      background: var(--code-bg);
+    }
+    .bibtex-copy-btn.copied {
+      color: #1a8a4a;
+      border-color: #1a8a4a;
     }
 
     /* ────────────────────────────────────────────────
@@ -545,8 +571,29 @@
   {% if page.bibtex %}
   <div class="ac-bibtex-section">
     <h2>BibTeX</h2>
-    <pre class="bibtex-block">{{ page.bibtex }}</pre>
+    <div class="bibtex-wrapper">
+      <button class="bibtex-copy-btn" id="bibtex-copy-btn" title="Copy BibTeX">
+        <i class="fas fa-copy"></i> Copy
+      </button>
+      <pre class="bibtex-block" id="bibtex-block">{{ page.bibtex }}</pre>
+    </div>
   </div>
+  <script>
+    (function () {
+      var btn   = document.getElementById('bibtex-copy-btn');
+      var block = document.getElementById('bibtex-block');
+      btn.addEventListener('click', function () {
+        navigator.clipboard.writeText(block.innerText).then(function () {
+          btn.innerHTML = '<i class="fas fa-check"></i> Copied!';
+          btn.classList.add('copied');
+          setTimeout(function () {
+            btn.innerHTML = '<i class="fas fa-copy"></i> Copy';
+            btn.classList.remove('copied');
+          }, 2000);
+        });
+      });
+    })();
+  </script>
   {% endif %}
 
   <!-- ═══════════════ Footer ═══════════════ -->

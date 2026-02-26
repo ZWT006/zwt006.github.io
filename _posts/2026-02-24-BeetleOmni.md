@@ -29,7 +29,8 @@ bibtex: |
   @article{zhang2026omnirl,
     title   = {Learning Agile and Robust Omnidirectional Aerial Motion
                on Overactuated Tiltable-Quadrotors},
-    author  = {Wentao Zhang and Zhaoqi Ma and Jinjie Li and Huayi Wang and Haokun Liu and Junichiro Sugihara and Chen Chen and Yicheng Chen and Moju Zhao},
+    author  = {Wentao Zhang and Zhaoqi Ma and Jinjie Li and Huayi Wang and Haokun Liu
+               and Junichiro Sugihara and Chen Chen and Yicheng Chen and Moju Zhao},
     year={2026},
     eprint={2602.21583},
     archivePrefix={arXiv},
