@@ -1,5 +1,6 @@
 ---
 layout: page
+math: true
 ---
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Ma+Shan+Zheng&family=Yuji+Mai&display=swap');
@@ -212,6 +213,15 @@ Welcome cooperation and discussion.
 
 ## Selected Research
 ---
+### [Learning Agile and Robust Omnidirectional Aerial Motion on Overactuated Tiltable-Quadrotors](/posts/BeetleOmni)
+<div style="border: 0px solid #1182BF;padding: 4px;margin-top: -15px;">
+    <p style="margin: 0 0 0px;"><strong>Wentao Zhang</strong>, Zhaoqi Ma, Jinjie Li, Huayi Wang, Haokun Liu$, Junichiro Sugihara, Chen Chen, Yicheng Chen and Moju Zhao</p>
+    <p style="margin: 0;">
+        <iframe class="left" width="480" height="270" src="https://www.youtube.com/embed/7oc55aLMC4U?si=4l4MFXZdMX6_6lID" title="Learning Agile and Robust Omnidirectional Aerial Motion on Overactuated Tiltable-Quadrotors" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        Tilt-rotor aerial robots enable omnidirectional maneuvering through thrust vectoring, but introduce significant control challenges due to the strong coupling between joint and rotor dynamics. While model-based controllers can achieve high motion accuracy under nominal conditions, their robustness and responsiveness often degrade in the presence of disturbances and modeling uncertainties. This work investigates reinforcement learning for omnidirectional aerial motion control on over-actuated tiltable quadrotors that prioritizes robustness and agility. We present a learning-based control framework that enables efficient acquisition of coordinated rotor-joint behaviors for reaching target poses in the $SE(3)$ space. To achieve reliable sim-to-real transfer while preserving motion accuracy, we integrate system identification with minimal and physically consistent domain randomization. Compared with a state-of-the-art NMPC controller, the proposed method achieves comparable six-degree-of-freedom pose tracking accuracy, while demonstrating superior robustness and generalization across diverse tasks, enabling zero-shot deployment on real hardware.
+    </p>
+</div>
+
 ### [PhysHSI: Towards a Real-World Generalizable and Natural Humanoid-Scene Interaction System](https://why618188.github.io/physhsi/)
 <div style="border: 0px solid #1182BF;padding: 4px;margin-top: -15px;">
     <p style="margin: 0 0 0px;">Huayi Wang*, <strong>Wentao Zhang*</strong>, Runyi Yu*, Tao Huang, Junli Ren, Feiyu Jia, Zirui Wang, Xiaojie Niu, Xiao Chen, Jiahe Chen, Qifeng Chen, Jingbo Wang and Jiangmiao Pang</p>

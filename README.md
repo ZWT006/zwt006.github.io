@@ -45,6 +45,12 @@ $ bundle
 
 Please see the [theme's docs](https://github.com/cotes2020/jekyll-theme-chirpy#documentation).
 
+Run
+```
+bundle exec jekyll s
+```
+Review on: http://127.0.0.1:4000/
+
 ## License
 
 This work is published under [MIT][mit] License.

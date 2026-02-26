@@ -6,7 +6,8 @@ order: 1
 
 ## Manuscript
 ---
-• H. Wang<strong>*</strong>, <strong>W. Zhang*</strong>, R. Yu<strong>*</strong>, T. Huang, J. Ren, F. Jia, Z. Wang, X. Niu, X. Chen, J. Chen, Q. Chen, J. Wang and J. Pang, [PhysHSI: Towards a Real-World Generalizable and Natural Humanoid-Scene Interaction System](https://why618188.github.io/physhsi/).  
+• H. Wang<strong>*</strong>, <strong>W. Zhang*</strong>, R. Yu<strong>*</strong>, T. Huang, J. Ren, F. Jia, Z. Wang, X. Niu, X. Chen, J. Chen, Q. Chen, J. Wang and J. Pang, [PhysHSI: Towards a Real-World Generalizable and Natural Humanoid-Scene Interaction System](https://why618188.github.io/physhsi/), Sep. 2025.  
+• **W. Zhang**, Z. Ma, J. Li, H. Wang, H. Liu, J. Sugihara, C. Chen, Y. Chen and M. Zhao, Learning Agile and Robust Omnidirectional Aerial Motion on Overactuated Tiltable-Quadrotors. Jan. 2026. [arxiv](https://arxiv.org/abs/2602.21583).
 
 ## Journal Paper
 ---

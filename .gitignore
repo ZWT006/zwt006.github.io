@@ -16,7 +16,7 @@ package-lock.json
 
 # IDE configurations
 .idea
-
+.claude
 # Misc
 assets/js/dist
 
