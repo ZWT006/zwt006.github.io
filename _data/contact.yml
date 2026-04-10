@@ -25,7 +25,7 @@
 
 - type: google-scholar
   icon: 'fab fa-google-scholar'   # icons powered by <https://fontawesome.com/>
-  url:  'https://scholar.google.com/citations?user=ubisUjEAAAAJ&hl=EN'                  # Fill with your Google Scholar homepage
+  url:  'https://scholar.google.com/citations?hl=en&user=xCqYlpIAAAAJ'                  # Fill with your Google Scholar homepage
 #
 # - type: stack-overflow
 #   icon: 'fab fa-stack-overflow'

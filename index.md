@@ -149,23 +149,6 @@ Welcome collaboration and discussion.
     </div>
 </div>
 
-<!-- new with a expandable button -->
-<!-- <div>
-    <h3><b>News</b></h3>
-    <ul>
-        <li><em>Oct. 2025</em>: Two paper (1st, 2nd author) have been accepted by IROS 2024.</li>
-        <li><em>June. 2025</em>: Start my internship on Shanghai AI Lab. Very happy to join in the excellent gropu (Embodied AI Center) and supervio</li>
-    </ul>
-    <details>
-        <summary><b>Old News</b></summary>
-        <ul>
-            <li><em>Jun. 2024</em>: Two paper (1st, 2nd author) have been accepted by IROS 2024.</li>
-            <li><em>May. 2024</em>: Participated in ICRA 2024 (Yokohama, Japan). Honorary to present an Oral Presentation!</li>
-            <li><em>Jan. 2024</em>: Three co-authored papers have been accepted by ICRA 2024. Very happy that one of it earned Finelist for Base Conference Paper Award</li>
-        </ul>
-    </details>
-</div> -->
-
 ## Awards & Honors
 ---
 • Huazhong University of Science and Technology Outstanding Graduate (2025)  
