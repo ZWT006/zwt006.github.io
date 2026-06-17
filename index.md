@@ -60,9 +60,10 @@ Welcome collaboration and discussion.
 <div class="news-box" tabindex="0" aria-label="News">
     <h3><b>News</b></h3>
     <ul>
+        <li><em>Jun. 2026</em>: Participated in ICRA 2026 (Vienna, Austria). Happy to share recent research in <a href="https://aerial-robotics-workshop-icra.com">AI-DRIVEN SAFE AERIAL ROBOTICS</a> workshop and ICRA poster session. </li> 
         <li><em>Oct. 2025</em>: On paper (1st author) has been accepted by RA-L，a nice end of my master's journey </li>
         <li><em>Oct. 2025</em>: Start my PhD journal in <a href="http://www.dragon.t.u-tokyo.ac.jp">DRAGON Lab</a>. Happy to meet nice people in here</li>
-        <li><em>June. 2025</em>: Start my internship on Shanghai AI Lab. Very happy to join in the excellent gropu (Embodied AI Center) </li>
+        <li><em>Jun. 2025</em>: Start my internship on Shanghai AI Lab. Very happy to join in the excellent gropu (Embodied AI Center) </li>
         <li><em>Jun. 2024</em>: Two paper (1st, 2nd author) have been accepted by IROS 2024.</li>
         <li><em>May. 2024</em>: Participated in ICRA 2024 (Yokohama, Japan). Honorary to present an Oral Presentation!</li>
         <li><em>Jan. 2024</em>: Three co-authored papers have been accepted by ICRA 2024. Very happy that one of it earned Finelist for Best Conference Paper Award</li>
@@ -148,6 +149,12 @@ Welcome collaboration and discussion.
         <p><strong>Topic:</strong> Mobile Robot, Motion Planning and Control</p>
     </div>
 </div>
+
+## Academic Service
+---
+**Reviewer**
+T-RO, RA-L, CoRL, ICRA, IROS
+
 
 ## Awards & Honors
 ---
@@ -440,5 +447,7 @@ details.pub-abstract > p {
 
 ---
 <div style="text-align: center">
-    <a href="https://m.maploco.com/details/71f666nh"><img style="border:0px;" src="https://www.maploco.com/vmap/10366253.png" alt="Locations of Site Visitors" title="Locations of Site Visitors"/></a>  
+    <!-- <a href="https://m.maploco.com/details/71f666nh"><img style="border:0px;" src="https://www.maploco.com/vmap/10366253.png" alt="Locations of Site Visitors" title="Locations of Site Visitors"/></a>   -->
+    <script id="_wauw84">var _wau = _wau || []; _wau.push(["map", "s2kmkxy47w", "w84", "250", "125", "night", "cross-pink"]);</script><script async src="//waust.at/m.js"></script>
+    <a href="https://info.flagcounter.com/TlmT"><img src="https://s01.flagcounter.com/mini/TlmT/bg_FFFFFF/txt_000000/border_CCCCCC/flags_0/" alt="Flag Counter" border="0"></a>
 </div>
