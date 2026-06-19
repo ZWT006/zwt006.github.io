@@ -375,7 +375,7 @@ details.pub-abstract > p {
     <div class="pub-links">
       <a href="/posts/AgileNav">Project</a>
       <a href="https://arxiv.org/abs/2403.10101" target="_blank" rel="noopener noreferrer">arXiv</a>
-      <a href="https://youtu.be/x52NgrAE96Y" target="_blank" rel="noopener noreferrer">Video</a>
+      <!-- <a href="https://youtu.be/x52NgrAE96Y" target="_blank" rel="noopener noreferrer">Video</a> -->
       <a href="https://github.com/ZWT006/agile_navigation" target="_blank" rel="noopener noreferrer">Code</a>
     </div>
     <details class="pub-abstract">
